@@ -1,0 +1,82 @@
+{
+  "campaigns": [
+    {
+      "campaign_id": "123456789",
+      "campaign_name": "Product Launch Campaign",
+      "ad_sets": [
+        {
+          "ad_set_id": "987654321",
+          "ad_set_name": "Target Audience A",
+          "ads": [
+            {
+              "ad_id": "1122334455",
+              "ad_name": "Ad Creative 1",
+              "impressions": 15000,
+              "clicks": 500,
+              "ctr": 3.33,
+              "cost_per_click": 0.50,
+              "spend": 250.00,
+              "conversion_rate": 2.5,
+              "conversions": 125,
+              "reach": 12000
+            },
+            {
+              "ad_id": "6677889900",
+              "ad_name": "Ad Creative 2",
+              "impressions": 12000,
+              "clicks": 400,
+              "ctr": 3.33,
+              "cost_per_click": 0.60,
+              "spend": 240.00,
+              "conversion_rate": 3.0,
+              "conversions": 120,
+              "reach": 10000
+            }
+          ]
+        },
+        {
+          "ad_set_id": "2233445566",
+          "ad_set_name": "Target Audience B",
+          "ads": [
+            {
+              "ad_id": "4455667788",
+              "ad_name": "Ad Creative 3",
+              "impressions": 18000,
+              "clicks": 600,
+              "ctr": 3.33,
+              "cost_per_click": 0.40,
+              "spend": 240.00,
+              "conversion_rate": 4.0,
+              "conversions": 240,
+              "reach": 15000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "campaign_id": "223344556",
+      "campaign_name": "Brand Awareness Campaign",
+      "ad_sets": [
+        {
+          "ad_set_id": "9988776655",
+          "ad_set_name": "Target Audience C",
+          "ads": [
+            {
+              "ad_id": "3322114455",
+              "ad_name": "Ad Creative 4",
+              "impressions": 20000,
+              "clicks": 800,
+              "ctr": 4.00,
+              "cost_per_click": 0.30,
+              "spend": 240.00,
+              "conversion_rate": 1.0,
+              "conversions": 80,
+              "reach": 18000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
